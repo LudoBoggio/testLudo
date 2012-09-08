@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version 3
+=======
+version 1
+>>>>>>> 7f2b676a543cb96c1923a3d7b46c878699696ae9
